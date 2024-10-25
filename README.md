@@ -112,35 +112,36 @@ The **Software Development Life Cycle (SDLC)** encompasses various phases and ac
 
 ## General Information
 
-| **Employee Name**      |                                         |
+| **Field**              | **Details**                             |
 |------------------------|-----------------------------------------|
-| **Reporting Period**   |                                         |
-| **Reporting Date**     |                                         |
-| **Department**         |                                         |
+| **Employee Name**      | John Doe                                |
+| **Reporting Period**   | October 18, 2024 - October 24, 2024     |
+| **Reporting Date**     | October 25, 2024                        |
+| **Department**         | Marketing                               |
 
 ## Completed Items
 
-| **Task / Project**     | **Description**                         | **Date Completed** |
-|------------------------|-----------------------------------------|--------------------|
-|                        |                                         |                    |
-|                        |                                         |                    |
-|                        |                                         |                    |
+| **No.** | **Task / Project**           | **Description**                              | **Date Completed** |
+|--------:|------------------------------|----------------------------------------------|--------------------|
+| 1       | Website Redesign             | Finalized the new homepage layout            | October 20, 2024   |
+| 2       | Email Campaign               | Sent out monthly newsletter                  | October 22, 2024   |
+| 3       | Social Media Strategy        | Developed a new content calendar             | October 23, 2024   |
 
 ## Ongoing / In Progress
 
-| **Task / Project**     | **Description**                         | **Due Date**       |
-|------------------------|-----------------------------------------|--------------------|
-|                        |                                         |                    |
-|                        |                                         |                    |
-|                        |                                         |                    |
+| **No.** | **Task / Project**           | **Description**                              | **Due Date**       |
+|--------:|------------------------------|----------------------------------------------|--------------------|
+| 1       | SEO Optimization             | Improving website SEO for better ranking     | October 28, 2024   |
+| 2       | Market Research              | Conducting competitor analysis               | October 30, 2024   |
+| 3       | Content Creation             | Writing blog posts for next month's topics   | November 1, 2024   |
 
 ## Items for Next Week
 
-| **Task / Project**     | **Description**                         | **Due Date**       |
-|------------------------|-----------------------------------------|--------------------|
-|                        |                                         |                    |
-|                        |                                         |                    |
-|                        |                                         |                    |
+| **No.** | **Task / Project**           | **Description**                              | **Due Date**       |
+|--------:|------------------------------|----------------------------------------------|--------------------|
+| 1       | PPC Campaign                 | Launching a new Google Ads campaign          | November 3, 2024   |
+| 2       | Product Launch Preparation   | Finalizing marketing materials               | November 5, 2024   |
+| 3       | Webinar Setup                | Organizing a webinar for lead generation     | November 6, 2024   |
 
 ---
 
