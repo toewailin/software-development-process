@@ -148,150 +148,118 @@ The **Software Development Life Cycle (SDLC)** encompasses various phases and ac
 # Requirements for a Developer Office
 
 ## 1. Stable Internet
-- Ensure a high-speed, reliable internet connection for seamless development, collaboration, and remote work.
+- Ensure a high-speed, reliable internet connection for seamless development and remote work.
 
-## 2. Communication Platform (File, Image, Message)
-- Use platforms like Slack, Microsoft Teams, or Discord for effective communication.
-- Ensure support for file sharing, image uploads, and instant messaging.
+## 2. Communication Platform
+- Use platforms like Slack, Microsoft Teams, or Discord for messaging and file sharing.
 
-## 3. NAT (SMB), Lab Room
-- Implement a network address translation (NAT) and server message block (SMB) for secure internal file sharing.
-- Set up a dedicated lab room for testing and research.
+## 3. Lab Room and Network Setup
+- Provide a lab room for testing.
+- Use NAT and SMB for secure file sharing.
 
 ## 4. Time Attendance System
-- Use a time attendance system for tracking working hours and employee presence.
+- Track working hours and employee presence.
 
-## 5. Working Time Tracking and Assign Tasks
-- Implement time tracking tools and project management software (e.g., Jira, Trello, or Asana) to monitor tasks and progress.
+## 5. Task and Time Tracking
+- Implement tools like Jira, Trello, or Asana for task management.
 
-## 6. Git Commit Analysis and Tracking
-- Use tools to analyze Git commits, track code changes, and monitor development progress.
+## 6. Git Commit Analysis
+- Track code changes and monitor development progress.
 
-## 7. Must Have a Garden, Good Working Environment
-- Provide a relaxing, green space (e.g., a garden) for breaks.
-- Ensure a positive and comfortable working atmosphere.
-- Working table can have under the tree.
+## 7. Comfortable Environment
+- Provide a garden or green space for breaks.
+- Workstations can be set up outdoors where possible.
 
-## 8. Must Have a Research Team
-- Establish a research team to explore new technologies and solve complex problems.
+## 8. Research and Translation Teams
+- Have dedicated teams for research and translation.
 
-## 9. Must Have a Translation Team
-- Have a dedicated team for translating content and documentation if required.
+## 9. Employee Happiness
+- Encourage a positive culture with snacks, coffee, and break times.
 
-## 10. Make Developers Happy
-- Create a positive work culture that encourages creativity, growth, and fun.
+## 10. Rest Periods
+- Allow afternoon breaks for rest or naps.
 
-## 11. Provide Candy and Coffee
-- Offer complimentary snacks, candy, and coffee to keep the developers energized.
+## 11. Healthy Lifestyle
+- Promote wellness programs and nutritious food options.
 
-## 12. Take a Rest in the Afternoon
-- Allow for short rest or nap breaks in the afternoon to recharge.
+## 12. Collaboration
+- Foster teamwork to achieve better results.
 
-## 13. Create a Healthy Lifestyle
-- Promote healthy habits such as exercise, nutritious meals, and wellness programs.
+## 13. Facilities for Living and Working
+- Provide amenities for eating, resting, and working in one place.
 
-## 14. Cooperation for Better Results
-- Encourage collaboration and teamwork to achieve more effective outcomes.
+## 14. Support for New Talent
+- Include young talent to bring fresh perspectives.
 
-## 15. Eating, Staying, and Working in One Place
-- Provide facilities where employees can eat, rest, and work without leaving the premises.
+## 15. Ergonomic Workstations
+- Offer ergonomic chairs, adjustable desks, and standing desk options. Provide service for mobile working. Can work under the tree.
 
-## 16. Must Include New Generation
-- Include young talent and fresh graduates to bring in new ideas and perspectives.
+## 16. Dual Monitors or Ultra-Wide Screens
+- Equip workstations with high-quality displays for better productivity.
 
-## 17. Ergonomic Workstations
-- Provide ergonomic chairs, adjustable desks, and monitor stands to ensure comfort and reduce physical strain.
-- Consider standing desks or sit-stand workstations for added flexibility.
+## 17. Private Meeting Rooms and Phone Booths
+- Use soundproof rooms for meetings and private calls. Make meeting every morning and report/discuss what we work.
 
-## 18. Dual Monitors or Ultra-Wide Monitors
-- Equip developers with dual monitors or ultra-wide screens for increased productivity and better code management.
-- Ensure high-resolution displays for clear and comfortable viewing.
+## 18. High-Performance Computers
+- Provide sufficient hardware resources for all employees.
 
-## 19. Private Meeting Rooms and Phone Booths
-- Set up soundproof meeting rooms for team discussions.
-- Provide phone booths for private calls and video conferences.
-- Make a meeting every morning and warming welcoming and let start working together actively.
+## 19. Development Tools and Licenses
+- Ensure access to all necessary software tools.
 
-## 20. High-Performance Computers
-- Provide high-performance desktops or laptops with sufficient RAM, SSD storage, and powerful processors.
-- Consider workstations tailored for specific tasks like software development, graphic design, or data analysis.
+## 20. CI/CD Systems
+- Automate testing and deployment processes.
 
-## 21. Development Tools and Software Licenses
-- Ensure developers have access to the latest development tools and software licenses (IDEs, version control tools, design software).
-- Provide access to cloud services and virtual machines for testing and deployment.
+## 21. Learning and Development Programs
+- Offer training opportunities and attend tech events.
 
-## 22. Continuous Integration/Continuous Deployment (CI/CD) Systems
-- Implement CI/CD pipelines to automate testing and deployment.
-- Use tools like Jenkins, GitLab CI, or GitHub Actions to ensure smooth integration and delivery.
+## 22. Code Review and Refactoring
+- Encourage regular code reviews.
 
-## 23. Learning and Development Programs
-- Provide opportunities for skill development through online courses, workshops, or training sessions.
-- Allocate a budget for attending tech conferences or certifications.
+## 23. Secure Data Management
+- Implement secure data storage and backup policies.
 
-## 24. Code Review Culture
-- Establish a code review process to maintain code quality.
-- Encourage peer reviews and regular feedback on code commits.
+## 24. Flexible Work Hours
+- Allow flexible schedules and remote work options.
 
-## 25. Secure Data Storage and Backup Systems
-- Implement secure data storage solutions and regular backup policies.
-- Use cloud storage services with encryption or dedicated servers for sensitive data.
+## 25. Recreation Area
+- Set up spaces for games and relaxation.
 
-## 26. Flexible Working Hours
-- Allow flexible working hours to accommodate different working styles and peak productivity times.
-- Consider remote work policies or hybrid working models.
+## 26. Version Control
+- Use reliable VCS tools.
 
-## 27. Recreation Area (Games and Relaxation)
-- Set up a recreation area with games (e.g., foosball, table tennis, video games).
-- Provide relaxation spaces with sofas or bean bags for informal gatherings.
+## 27. IT Support
+- Ensure quick response to technical issues.
 
-## 28. Version Control System
-- Use a reliable version control system (e.g., Git, SVN) for managing source code.
-- Implement branching strategies to streamline development and release cycles.
+## 28. Mental Health Support
+- Provide access to counseling services.
 
-## 29. IT Support Team
-- Have an in-house or on-call IT support team to assist with technical issues.
-- Provide quick response to hardware, software, and network problems.
+## 29. Safety Protocols
+- Conduct regular safety drills.
 
-## 30. Mental Health Support and Counseling
-- Offer access to mental health support or counseling services.
-- Promote work-life balance and encourage taking time off when needed.
+## 30. Access Control
+- Implement secure office entry systems.
 
-## 31. Fire Safety and Emergency Protocols
-- Equip the office with fire extinguishers, first-aid kits, and emergency exits.
-- Conduct regular safety drills and ensure all employees are aware of emergency procedures.
+## 31. Noise-Canceling Headphones
+- Offer headphones to employees who need them.
 
-## 32. Secure Access Control
-- Implement secure access control systems for office entry (keycards, biometric scanners).
-- Restrict access to sensitive areas like server rooms.
+## 32. SOPs
+- Document processes for consistency.
 
-## 33. Noise-Canceling Headphones
-- Provide noise-canceling headphones for developers who prefer a quiet working environment.
-- Allow employees to bring their own preferred headphones.
+## 33. Air Conditioning and Ventilation
+- Maintain a comfortable indoor environment.
 
-## 34. Documented Processes and Standard Operating Procedures (SOPs)
-- Maintain well-documented processes for development, deployment, and support.
-- Provide onboarding documentation for new hires.
+## 34. Team Events
+- Organize social events and team-building activities.
 
-## 35. High-Quality Air Conditioning and Ventilation
-- Ensure proper air conditioning and ventilation for a comfortable working environment.
-- Use air purifiers if necessary to maintain air quality.
+## 35. Food and Beverage Options
+- Offer healthy snacks and drinks.
 
-## 36. Monthly Social Events and Team Building Activities
-- Organize social events like happy hours, movie nights, or team outings.
-- Conduct team-building activities to foster camaraderie and teamwork.
+## 36. Quiet Zones
+- Designate quiet areas for focused work.
 
-## 37. Food and Beverage Options
-- Provide healthy snacks, fruits, and beverages (tea, juices, etc.).
-- Consider catering options for lunch or a subsidized cafeteria.
+## 37. Remote Access and VPN
+- Provide secure remote work tools.
 
-## 38. Dedicated Quiet Zone
-- Establish a quiet zone for focused work without distractions.
-- Ensure no meetings or loud conversations take place in this area.
+## 38. Digital Whiteboards and Collaboration Tools
+- Use digital tools for brainstorming and documentation.
 
-## 39. Remote Access and VPN Setup
-- Set up remote access tools and secure VPN connections for developers working offsite.
-- Ensure smooth access to internal systems and servers.
-
-## 40. Digital Whiteboards and Collaboration Tools
-- Use digital whiteboards or tools like Miro for brainstorming sessions.
-- Provide access to collaboration platforms (Confluence, Notion) for documentation and shared resources.
