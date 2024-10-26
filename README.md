@@ -44,6 +44,7 @@ The **Software Development Life Cycle (SDLC)** encompasses various phases and ac
    - **Regression Testing:** Re-testing after changes to ensure no new defects were introduced.
 
 ### 8. **Performance Optimization**
+   - အကျယ်တဝင့် ရေးရန်
    - **Profiling and Monitoring:** Measuring system performance and identifying bottlenecks.
    - **Load Testing and Stress Testing:** Evaluating the system’s ability to handle high loads.
    - **Optimization and Tuning:** Improving system speed, memory usage, and scalability.
