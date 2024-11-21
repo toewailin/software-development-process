@@ -201,6 +201,42 @@ The **Software Development Life Cycle (SDLC)** encompasses various phases and ac
 ## 17. Private Meeting Rooms and Phone Booths
 - Use soundproof rooms for meetings and private calls. Make meeting every morning and report/discuss what we work.
 
+### **List of Columns**
+| **Column**            | **Purpose**                                                                                          |
+|------------------------|------------------------------------------------------------------------------------------------------|
+| **Label (ID)**         | A unique identifier for each piece of equipment (e.g., `F1-IT-Laptop-001`).                         |
+| **Floor**              | The floor where the equipment is located (e.g., `1`, `2`, `3`).                                     |
+| **Room/Location**      | Specific room or area (e.g., `Room 101`, `Admin Office`).                                            |
+| **Department**         | The department or team responsible for the equipment (e.g., `IT`, `HR`).                            |
+| **Equipment Type**     | The type of equipment (e.g., `Laptop`, `Printer`, `Router`).                                         |
+| **Assigned To**        | The staff member or department using the equipment.                                                 |
+| **Buying Date**        | The purchase date for tracking warranties and lifecycle.                                             |
+| **Warranty End**       | Warranty expiration date to plan repairs or replacements.                                           |
+| **Last Maintenance**   | Date of the most recent maintenance.                                                                |
+| **Next Maintenance**   | Scheduled date for the next maintenance check.                                                      |
+| **Condition**          | Current state of the equipment (`Good`, `Needs Repair`, `Fair`).                                    |
+| **Remarks**            | Additional notes (e.g., "Battery replaced in Oct 2023," "Screen cracked").                          |
+| **Purchase Price**     | The cost of the equipment for financial tracking.                                                   |
+| **Serial Number**      | Manufacturer’s unique identifier for the equipment.                                                 |
+| **Repair Contact**     | Contact information for servicing or repairs (e.g., `555-1234`).                                    |
+| **Vendor/Provider**    | Name of the vendor or supplier who sold the equipment.                                               |
+| **IP Address/Network Info** | Network details for IT-related equipment (e.g., routers, laptops).                              |
+| **Software/OS Version**| For devices like laptops or servers, tracks the current operating system or installed software.      |
+| **Barcode/QR Code**    | A scannable code linking to a detailed database entry for the equipment.                             |
+| **Replacement Date**   | Planned replacement date for aging equipment.                                                       |
+
+---
+
+### **Example Table**
+
+| **Label**          | **Floor** | **Room**   | **Department** | **Type**    | **Assigned To** | **Buying Date** | **Warranty End** | **Last Maint.** | **Next Maint.** | **Condition** | **Remarks**              | **Price** | **Serial No.** | **Repair Contact** | **Vendor**  | **IP/Network**      | **OS/Software** | **Replacement Date** |
+|---------------------|-----------|------------|----------------|-------------|-----------------|-----------------|------------------|-----------------|-----------------|---------------|--------------------------|-----------|----------------|--------------------|-------------|---------------------|------------------|----------------------|
+| F1-IT-Laptop-001    | 1         | Room 101   | IT             | Laptop      | John Doe        | 2022-05-15      | 2025-05-15       | 2023-11-01      | 2024-05-01      | Good          | Battery replaced 2023   | $1,200    | XYZ12345       | 555-1234           | Dell Inc.   | 192.168.1.101      | Windows 11       | 2027-05-15          |
+| F2-Finance-Printer-002 | 2      | Finance    | Finance        | Printer     | Jane Smith      | 2021-08-10      | 2024-08-10       | 2023-08-01      | 2024-02-01      | Needs Repair  | Paper jam issue          | $800      | ABC67890       | 555-5678           | HP          | N/A                 | N/A              | 2025-08-10          |
+| F3-Admin-Router-003 | 3         | Room 305   | Admin          | Router      | David Lee       | 2020-01-12      | 2023-01-12       | 2023-01-01      | 2024-01-01      | Fair          | Connection unstable      | $500      | DEF11223       | 555-8910           | Cisco       | 192.168.1.201      | N/A              | 2024-12-01          |
+
+---
+
 ## 18. High-Performance Computers
 - Provide sufficient hardware resources for all employees.
 
