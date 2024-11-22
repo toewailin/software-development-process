@@ -55,6 +55,29 @@ The **Software Development Life Cycle (SDLC)** encompasses various phases and ac
    - **Deployment Automation:** Using scripts and tools to deploy software in different environments.
    - **Version Control:** Managing different versions and releases of the software.
 
+| **Technology**        | **Best For**                              | **Ease of Use**      | **Performance**     | **Build Process**                                    | **GUI Support**       | **Key Features**                                                                 | **File Size**                        |
+|------------------------|--------------------------------------------|----------------------|---------------------|----------------------------------------------------|-----------------------|---------------------------------------------------------------------------------|--------------------------------------|
+| **Rust**              | High-performance standalone apps           | Moderate            | Excellent           | `cargo build --target <platform>`                 | Limited               | Memory safety, efficient binaries, built-in cross-compilation.                 | Small (~2-5 MB)                      |
+| **Java**              | Broad platform support with JVM            | Easy                | Moderate            | `javac Main.java` + `jar cvfe MyApp.jar Main`     | Strong                | Write once, run anywhere (WORA); JVM dependency.                               | Medium (~10-20 MB with JVM runtime)  |
+| **C# (.NET MAUI)**    | Professional desktop & mobile apps         | Easy                | High                | Built with Visual Studio for multiple platforms   | Excellent             | Native-like GUI, modern .NET ecosystem, cross-platform support.                | Medium (~10-30 MB)                   |
+| **C++ (Qt)**          | High-performance GUI apps                  | Difficult           | Excellent           | `qmake && make`                                   | Excellent             | Native GUI tools, performance-oriented, best for professional-grade apps.      | Medium (~10-20 MB, depending on GUI) |
+| **Flutter (Dart)**    | Unified UI for all platforms               | Moderate            | High                | `flutter build <platform>`                        | Excellent             | Unified widget system, excellent for responsive, visually-rich apps.           | Medium (~20-50 MB)                   |
+| **Haskell**           | Correctness-focused standalone apps        | Difficult           | Moderate            | `stack build && stack install`                   | Limited               | Reliability, functional programming, best for logic-intensive applications.     | Medium (~10-20 MB)                   |
+| **Dart Standalone**   | Lightweight apps and prototyping           | Easy                | High                | `dart compile exe main.dart -o my_app`           | Limited               | Compact executables, easy syntax, fast execution.                              | Small (~2-8 MB)                      |
+| **Golang**            | Command-line tools and server apps         | Easy                | High                | `go build`                                        | Limited               | Lightweight standalone binaries, fast compilation, no external dependencies.   | Small (~3-10 MB)                     |
+| **Python (PyInstaller)** | Quick prototyping and small tools        | Easy                | Low-Medium          | `pyinstaller --onefile app.py`                   | Limited               | Easy to learn, slower binaries, requires Python runtime for advanced features. | Medium-Large (~20-50 MB)             |
+| **Node.js (Electron)** | Desktop apps with web technologies         | Easy                | Low-Medium          | `npm run build`                                   | Strong                | HTML/CSS/JS-based GUIs; best for cross-platform apps with web-like interfaces. | Large (~50-100 MB+)                  |
+
+---
+
+#### Key Observations:
+1. **Smallest File Size**:
+   - **Rust**, **Golang**, and **Dart Standalone** produce compact binaries with minimal overhead.
+2. **Medium File Size**:
+   - **C# (.NET MAUI)**, **C++ (Qt)**, **Java**, and **Haskell** balance features with reasonable file sizes.
+3. **Largest File Size**:
+   - **Node.js (Electron)** and **Python (PyInstaller)** create large binaries due to dependencies on interpreters or runtime environments. Suitable for GUI-heavy applications but not ideal for lightweight needs.
+
 ### 10. **Security and Compliance**
    - **Security Design:** Implementing security controls and standards, such as encryption and authentication.
    - **Compliance and Regulatory Requirements:** Ensuring adherence to industry standards and legal requirements.
