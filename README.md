@@ -340,3 +340,73 @@ Here are the updated department codes for reference:
 ## 38. Digital Whiteboards and Collaboration Tools
 - Use digital tools for brainstorming and documentation.
 
+---
+
+Agile (Left Side)
+
+Agile is a mindset or approach to software development. It focuses on delivering small, working parts of a project frequently and improving the project over time with feedback.
+
+1. Requirement: The project begins by gathering the requirements (what the customer wants).
+
+
+2. Design: Based on the requirements, the team designs the product or features to be built.
+
+
+3. Develop: The development phase where the code is written and the features are developed.
+
+
+4. Test: After development, testing is done to ensure the product works as expected.
+
+
+5. Deploy: The product is deployed (released) to the users or environment for use.
+
+
+6. Review: Once deployed, feedback is collected from users or stakeholders to review how well the product works and if any changes are needed.
+
+
+7. Repeat: Based on the review, the process goes back to the requirement phase to make improvements, and this cycle continues.
+
+
+
+Agile is a continuous cycle of building, testing, releasing, and improving. It allows teams to adapt quickly and make changes as needed.
+
+
+---
+
+Scrum (Right Side)
+
+Scrum is a framework that follows the Agile approach, but it is more structured and has specific roles and processes. It's like a guidebook for implementing Agile in projects.
+
+1. Preparation: This is where you set up the project, define the goals, and decide what tasks need to be done. In Scrum, this is when the team sets up their backlog (a list of tasks to be completed).
+
+
+2. Sprint: This is the core of Scrum. A Sprint is a short development cycle, typically 1-4 weeks, where the team focuses on a small set of tasks (from the backlog) and completes them. During this time, the team works closely and checks progress in daily stand-up meetings (Scrum meetings).
+
+
+3. Release: After the Sprint is completed, the working product or features are released to the stakeholders for review.
+
+
+4. Risk & Issues: Scrum also emphasizes identifying any risks (potential problems) or issues that could impact the project and addressing them during the Sprint.
+
+
+
+
+---
+
+Key Differences:
+
+Agile is the general philosophy, whereas Scrum is a specific way to implement Agile.
+
+Agile has no strict rules or framework, it’s more flexible, while Scrum follows a set of rules (e.g., Sprints, roles, and ceremonies like Sprint planning and daily stand-ups).
+
+Scrum includes defined roles (like Scrum Master, Product Owner, and Development Team) to help manage and execute the Agile principles effectively.
+
+
+
+---
+
+For Example: Imagine you're working on a PHP-based website. In Agile, you would build a feature (e.g., user login) and release it quickly. Then you'd test it, get feedback, and make changes or improvements. In Scrum, you'd plan your tasks (like "build login page") for a short time period (Sprint), then review and release the feature once it's done.
+
+
+---
+
